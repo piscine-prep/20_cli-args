@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-  // Vérification du nombre d'arguments
+  // Vérifier qu'un mot a été fourni
 
-  // Affichage des informations sur les arguments
+  // Analyser le mot fourni
 
-  // Parcours et affichage de chaque argument
+  // Afficher les résultats
 
   return 0;
 }
